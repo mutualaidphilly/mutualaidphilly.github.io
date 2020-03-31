@@ -1,37 +1,33 @@
-## This is a change
+# Philly Mutual Aid
 
-You can use the [editor on GitHub](https://github.com/mutualaidphilly/mutualaidphilly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## First Section
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 - Bulleted
 - List
+- [Link](url)
 
-1. Numbered
-2. List
+## Second Section
 
-**Bold** and _Italic_ and `Code` text
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-[Link](url) and ![Image](src)
-```
+### First Subsection
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-### Jekyll Themes
+- more
+- bullets
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mutualaidphilly/mutualaidphilly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Second Subsection
 
-### Support or Contact
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| this | is  | a           | table |
+|------|-----|-------------|-------|
+| 1    | abc | [Link](url) | ✅    |
+| 2    | def | [Link](url) | ❗️    |
