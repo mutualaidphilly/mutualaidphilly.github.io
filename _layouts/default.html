@@ -18,15 +18,29 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+       .page-header {
+	    background-image: none;
+	    background-color: black;
+	}
+
+	header.page-header {}
+
+	.btn.goto-gform {
+	    color:black;
+	    background-color: green;
+	}
+
+    </style>
   </head>
   <body>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
-      <h2 class="project-tagline">COVID-19: if you are in need of aid or willing to offer aid, please click the appropriate button below.</h2>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScuXBsZJTirn8F6jYJj4XWwFy-Wjib7U2jgb-B-5MZJUUpWSw/viewform?fbclid=IwAR3DeRFJRwzCO5o90V8nCI6grCX3e4tCSUBLp_1JUIavzEeHt8BWV0u8OMA" class="btn">I can help!</a>
-      <!-- <a href="{{ site.form_urls.need_help }}" class="btn">I need help...</a> -->
+      <h2 class="project-tagline">COVID-19: Need aid? Seeking aid?</h2>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScuXBsZJTirn8F6jYJj4XWwFy-Wjib7U2jgb-B-5MZJUUpWSw/viewform?fbclid=IwAR3DeRFJRwzCO5o90V8nCI6grCX3e4tCSUBLp_1JUIavzEeHt8BWV0u8OMA" class="btn goto-gform">Respond Here</a>
+      <!-- <a href="{{ site.form_urls.need_help }}" class="btn need-help">I need help...</a> -->
     </header>
 
     <main id="content" class="main-content" role="main">
