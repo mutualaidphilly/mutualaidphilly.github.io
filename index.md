@@ -1,4 +1,11 @@
-﻿# Welcome to Mutual Aid Philly!
+﻿---
+need: "I need aid!"
+offer: "I can offer aid"
+---
+
+**para español, haga [clic aquí](/es)**
+
+# Welcome to Mutual Aid Philly!
 
 
 We are a mutual aid group organizing our neighbors in Center City and South Philly. We work with disabled and chronically ill folks as well as the broader community. We are glad you’re here!
