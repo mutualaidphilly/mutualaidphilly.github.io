@@ -55,7 +55,7 @@ Want to get involved? We’d love your help! Please email us at mutualaidphilly@
 
 # Mutual Aid Disclaimer
 
-Mutual Aid Philly is an entirely volunteer run, unofficial resource. We will do our best to ensure best practices regarding safety, but as a collective of volunteers we cannot vet or guarantee the identity or background of any individual offering or requesting aid. [Click here to read our entire disclaimer.](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA)
+Mutual Aid Philly is an entirely volunteer run, unofficial resource. We will do our best to ensure best practices regarding safety, but as a collective of volunteers we cannot vet or guarantee the identity or background of any individual offering or requesting aid. [Click here to read our entire disclaimer.](https://docs.google.com/document/d/1apyfwSjpzp8hRY0rAwlhwPMTrsc1FwTsNWfAE4JwN5I/edit)
 
 
 # Accessibility statement
