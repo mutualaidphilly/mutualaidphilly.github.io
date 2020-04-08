@@ -1,4 +1,5 @@
 ﻿---
+title: "Mutual Aid Philly"
 need: "I need aid!"
 offer: "I can offer aid"
 ---
