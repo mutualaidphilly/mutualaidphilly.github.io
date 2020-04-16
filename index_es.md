@@ -69,7 +69,7 @@ Si se encuentra en medio de una disputa con otro usuario, entienda que Mutual Ai
 
 # Declaración de accesibilidad
 
-Priorizamos la accesibilidad digital en nuestro sitio web y formularios para garantizar el acceso de las personas con discapacidad. Aplicamos todos aquellos estándares de accesibilidad relevantes. Si tiene problemas al utilizar nuestro sitio web o alguno de los formularios, o desea enviarnos sus comentarios, por favor envíenos un correo electrónico a mutualaidphilly@gmail.com. Muchísimas gracias.
+Priorizamos la accesibilidad digital en nuestro sitio web y formularios para garantizar el acceso de las personas con discapacidad. Aplicamos todos aquellos estándares de accesibilidad relevantes. Si tiene problemas al utilizar nuestro sitio web o alguno de los formularios, o desea enviarnos sus comentarios, por favor envíenos un correo electrónico a [mutualaidphilly@gmail.com] (mailto:mutualaidphilly@gmail.com). Muchísimas gracias.
 
 
 
