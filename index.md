@@ -8,7 +8,6 @@ offer: "I can offer aid"
 
 # Welcome to Mutual Aid Philly!
 
-
 We are a mutual aid group organizing our neighbors in Center City and South Philly. We work with disabled and chronically ill folks as well as the broader community. We are glad you’re here!
 
 # Site Index
@@ -61,4 +60,4 @@ Mutual Aid Philly is an entirely volunteer run, unofficial resource. We will do 
 
 # Accessibility statement
 
-We prioritize digital accessibility on our website and forms to ensure access for disabled people. We apply the relevant accessibility standards. If you encounter problems using our website or forms or would like to provide feedback please email us at mutualaidphilly@gmail.com. Thank you very much.
+We prioritize digital accessibility on our website and forms to ensure access for disabled people. We apply the relevant accessibility standards. If you encounter problems using our website or forms or would like to provide feedback please email us at [mutualaidphilly@gmail.com](mailto:mutualaidphilly@gmail.com). Thank you very much.
