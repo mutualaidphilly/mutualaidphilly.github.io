@@ -1,8 +1,9 @@
 ---
-title: "Mutual Aid Philly"
+title: Mutual Aid Philly
 permalink: /es/
-need: "Necesito ayuda"
-offer: "Puedo ofrecer ayuda"
+need: Necesito ayuda
+offer: Puedo ofrecer ayuda
+published: true
 ---
 
 **For english, [click here](/)**
@@ -58,7 +59,7 @@ Somos un grupo de vecinos en el centro y sur de Filadelfia dedicados a:
 *  Priorizar el liderazgo, los objetivos y las necesidades de los vecinos discapacitados y aquellos con enfermedades crónicas
 * Trabajar en solidaridad con otros grupos en la ciudad de Filadelfia
 
-¿Quieres involucrarte? ¡Nos encantaría tu ayuda! Envíenos un correo electrónico a mutualaidphilly@gmail.com.
+¿Quieres involucrarte? ¡Nos encantaría tu ayuda! Envíenos un correo electrónico a [mutualaidphilly@gmail.com](mailto:mutualaidphilly@gmail.com).
 
 
 # Descargo de responsabilidad en torno a la ayuda mutua
@@ -70,7 +71,3 @@ Si se encuentra en medio de una disputa con otro usuario, entienda que Mutual Ai
 # Declaración de accesibilidad
 
 Priorizamos la accesibilidad digital en nuestro sitio web y formularios para garantizar el acceso de las personas con discapacidad. Aplicamos todos aquellos estándares de accesibilidad relevantes. Si tiene problemas al utilizar nuestro sitio web o alguno de los formularios, o desea enviarnos sus comentarios, por favor envíenos un correo electrónico a [mutualaidphilly@gmail.com](mailto:mutualaidphilly@gmail.com). Muchísimas gracias.
-
-
-
-
