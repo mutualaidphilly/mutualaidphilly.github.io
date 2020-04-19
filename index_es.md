@@ -8,6 +8,8 @@ published: true
 
 **For english, [click here](/)**
 
+**中文请[点这里](/zh)**
+
 # ¡Bienvenido a Mutual Aid Philly! *
 
 Somos un grupo de ayuda y beneficiencia mutua que organiza a nuestros vecinos en el centro y sur de Filadelfia. Trabajamos con personas discapacitadas y aquellas con enfermedades crónicas, así como con la comunidad en general. ¡Nos alegra que estés aquí!
