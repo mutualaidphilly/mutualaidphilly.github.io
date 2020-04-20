@@ -4,6 +4,7 @@ permalink: /es/
 need: Necesito ayuda
 offer: Puedo ofrecer ayuda
 published: true
+lang: es
 ---
 
 **For english, [click here](/)**
