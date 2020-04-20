@@ -7,3 +7,5 @@ description: >-
   or some other kind of support during the Covid-19 crisis? Can you offer help
   to others?
 url: mutualaidphilly.com
+plugins:
+    - jekyll-sitemap
