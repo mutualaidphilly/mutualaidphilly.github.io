@@ -25,15 +25,9 @@ Somos un grupo de ayuda y beneficiencia mutua que organiza a nuestros vecinos en
 
 # Solicitar ayuda
 
-Si desea solicitar ayuda con la compra de comestibles, recolección de recetas médicas, dinero en efectivo, apoyo emocional o cualquier otra cosa que desee aportar, comience por explorar esta lista de ofertas actuales de ayuda mutua en la comunidad:
-[Ver ofertas de ayuda mutua](https://docs.google.com/spreadsheets/d/1gv1okU0IcBXG3bhrhHqlufegzv3S8evyhcjBQ4OgI0A/edit?usp=sharing)
+Si desea solicitar ayuda con la compra de comestibles, recolección de recetas médicas, dinero en efectivo, apoyo emocional o cualquier otra cosa, por favor complete este formulario. [Formulario de solicitud de ayuda mutua](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug)
 
-Si encuentra lo que está necesitando, puede comunicarse directamente con la persona que publicó la oferta de ayuda.
-
-Si necesita algo distinto, por favor complete este formulario.
-[Formulario de solicitud de ayuda mutua](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug)
-
-Su solicitud irá a una hoja electrónica (spreadsheet) pública mediante la cual sus vecinos podrán contactarle y ofrecerle ayuda.
+Una vez que llene este formulario, un voluntario estará en contacto con usted para contectarle con un vecino que puede ayudar con su solicitud.
 
 Recuerde que si tiene una emergencia o necesita atención médica inmediata, llame al 9-1-1.
 
@@ -41,10 +35,6 @@ Recuerde que si tiene una emergencia o necesita atención médica inmediata, lla
 
 Si desea ofrecer alguna otra cosa, por favor complete este formulario.
 [Formulario de oferta de ayuda mutua](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA)
-
-Si encuentra algo con lo que usted pueda ayudar, puede comunicarse directamente con la persona que publicó el pedido de ayuda.
-
-Su solicitud irá a una hoja electrónica pública (spreadsheet) mediante la cual sus vecinos podrán comunicarse con usted y solicitarle la ayuda que esté ofreciendo.
 
 # Recursos adicionales
 
