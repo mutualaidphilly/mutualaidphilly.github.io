@@ -25,22 +25,17 @@ published: true
 
 # 请求帮助
 
-如果你需要帮忙买食物、取药物、感情支持或者其他任何事情，你可以开始看看这里是一些能够提供帮助的人：
-[浏览互助目录。](https://docs.google.com/spreadsheets/d/1gv1okU0IcBXG3bhrhHqlufegzv3S8evyhcjBQ4OgI0A/edit?usp=sharing)
-
-如果你看到可以帮助你的人，你可以联系他们。
-
-如果你有不同的需求，请填写这份表格。我们会在48小时之内回复你。
+如果你需要人帮助你购买食物、取药品、提供现金、感情支持或者别的，请填写这张表格。我们的志愿者会在48小时之内回复你，将你与能够提供帮助的人匹配。
  [互助表格。](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug)
 
-如有紧急情况，请拨打911。
+请注意，如果是紧急情况，请拨打9-1-1
 
 # 提供帮助
 
-如果你能够提供帮助，请填写这份表格：
+如果你需要提供帮助，请填写这张表格：
  [提供帮助表格。](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA)
 
-你的信息会出现在一个公开的表格上。邻居们会联系你。我们的工作人员也可能联系你。如果你希望取消自己的互助请求，请邮件联系mutualaidphilly@gmail.com.
+随后如果有人需要你的帮助，我们的志愿者会联系你。
 
 # 其他资源
 
