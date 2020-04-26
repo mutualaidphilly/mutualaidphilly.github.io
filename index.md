@@ -31,7 +31,9 @@ Please remember, if you are experiencing an emergency or need medical care pleas
 # Offer Mutual Aid
 If you would like to offer mutual aid, please fill out this form: [Mutual Aid Offer Form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA)
 
-You will be contacted by a member of our team to support someone who has requested aid. 
+You will be contacted by a member of our team to support someone who has requested aid.
+
+You can also Venmo our community fund directly at @mutualaidphl. For transparency, we are posting transaction by transaction how we move money here: [Money transparency spreadsheet](https://docs.google.com/spreadsheets/d/1wxjPjcmXK9gfPFatON0c-e7SQISIEAwbEncJJMa0dT8/edit?usp=sharing)
 
 # Additional Resources
 Looking for more resources? We’ll continue to update this section as things change.
