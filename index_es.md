@@ -36,7 +36,9 @@ Recuerde que si tiene una emergencia o necesita atención médica inmediata, lla
 Si desea ofrecer alguna otra cosa, por favor complete este formulario.
 [Formulario de oferta de ayuda mutua](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA)
 
-# Recursos adicionales
+También puede enviar fondos directamente a nuestro fondo comunitario en Venmo, @mutualaidphl. Para transparencia, aqui notamos cada transaccion que recibimos y damos en esta hoja de cálculo: [Hoja de cálculo de transparencia de dinero](https://docs.google.com/spreadsheets/d/1wxjPjcmXK9gfPFatON0c-e7SQISIEAwbEncJJMa0dT8/edit?usp=sharing)
+
+# Recursos adicionales 
 
 ¿Busca más recursos? Continuaremos actualizando esta sección a medida que la situación lo amerite.
 [Lista de recursos para toda la ciudad](https://docs.google.com/document/d/12XvgMzAK7nZkgG5PIJGShFvsNuIzszLDu8U5u1JnmZ8/edit?usp=sharing)
