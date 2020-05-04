@@ -33,7 +33,7 @@ If you would like to offer mutual aid, please fill out this form: [Mutual Aid Of
 
 You will be contacted by a member of our team to support someone who has requested aid.
 
-You can also Venmo our community fund directly at @mutualaidphl. For transparency, we are posting transaction by transaction how we move money here: [Money transparency spreadsheet](https://docs.google.com/spreadsheets/d/1wxjPjcmXK9gfPFatON0c-e7SQISIEAwbEncJJMa0dT8/edit?usp=sharing)
+You can also Venmo our community fund directly at @mutualaidphl, and/or donate to our [PayPal pool](https://paypal.me/pools/c/8oNSd8W8KH). For transparency, we are posting transaction by transaction how we move money here: [Money transparency spreadsheet](https://docs.google.com/spreadsheets/d/1wxjPjcmXK9gfPFatON0c-e7SQISIEAwbEncJJMa0dT8/edit?usp=sharing)
 
 # Additional Resources
 Looking for more resources? We’ll continue to update this section as things change.
