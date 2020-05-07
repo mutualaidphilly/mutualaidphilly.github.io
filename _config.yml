@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+title: Mutual Aid Philly
+tagline: Philadelphians helping each other
+description: >-
+  We are a Mutual Aid Group organiziing our neighbors in Center City
+  and South Philly. Do you need help with errands, affording food and supplies,
+  or some other kind of support during the Covid-19 crisis? Can you offer help
+  to others?
+url: mutualaidphilly.com
+social:
+  - https://www.facebook.com/mutualaidphilly/
+  - https://www.instagram.com/mutualaidphilly/
+plugins:
+  - jekyll-sitemap

@@ -4,6 +4,7 @@ permalink: /zh/
 need: 我需要帮助！
 offer: 我能够提供帮助
 published: true
+lang: zh
 ---
 
 **For english, [click here](/)**
