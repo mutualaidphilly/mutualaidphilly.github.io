@@ -3,6 +3,7 @@ title: Mutual Aid Philly
 permalink: /es/
 need: Necesito ayuda
 offer: Puedo ofrecer ayuda
+donate: Done ahora
 published: true
 lang: es
 ---
