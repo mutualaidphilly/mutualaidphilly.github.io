@@ -1,86 +1,98 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
+<head>
 
-    {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <style>
-       .page-header {
-	    background-image: none;
-	    background-color: black;
-	}
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
+  <meta charset="UTF-8">
 
-	header.page-header {}
+  {% seo %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <style>
+    .page-header {
+      background-image: none;
+      background-color: black;
+    }
 
-        .btn.goto-gform-need {
-	    color:black;
-	    background-color: red;
-	}
+    header.page-header {
 
-	.btn.goto-gform-offer {
-	    color: #000000;
-	    background-color: #00B300;
-	}
+    }
 
-	.main-content h1,
-	.main-content h2,
-	.main-content h3,
-	.main-content h4,
-	.main-content h5,
-	.main-content h6 {
-            color: #0C643A;
-        }
-	    
-	.cta-container {
-		display: flex;
-	 	justify-content: center;
-	}
+    .goto-gform-need,
+    .goto-gform-offer {
+      margin-bottom: 0;
+    }
 
-    </style>
-    <meta name="google-site-verification" content="wepQUf_gtp4HJruerDYEHCIZ7_eS4CXfDfwlFCaeO-w" />
-  </head>
-  <body>
+    .btn.goto-gform-need {
+      color: black;
+      background-color: red;
+    }
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
-      <h2 class="project-tagline">COVID-19: Need aid? Seeking aid?</h2>
-      <div class="cta-container">
-        <a target="_blank" href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug" class="btn goto-gform-need" aria-describedby="new-window-message">{{ page.need }}</a>
-        <div style="
+    .btn.goto-gform-offer {
+      color: #000000;
+      background-color: #00B300;
+    }
+
+    .main-content h1,
+    .main-content h2,
+    .main-content h3,
+    .main-content h4,
+    .main-content h5,
+    .main-content h6 {
+      color: #0C643A;
+    }
+
+    .cta-container {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
+  <meta name="google-site-verification" content="wepQUf_gtp4HJruerDYEHCIZ7_eS4CXfDfwlFCaeO-w" />
+</head>
+
+<body>
+
+  <header class="page-header" role="banner">
+    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
+    <h2 class="project-tagline">COVID-19: Need aid? Seeking aid?</h2>
+    <div class="cta-container">
+      <a target="_blank"
+        href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug"
+        class="btn goto-gform-need" aria-describedby="new-window-message">{{ page.need }}</a>
+      <div style="
           border-left: 1px solid white;
           margin: 0 1rem;
         "></div>
+      <a target="_blank" href="https://actionnetwork.org/fundraising/mutual-aid-philly/" class="btn goto-gform-offer"
+        aria-describedby="new-window-message">{{ page.donate }}</a>
       <a target="_blank"
-        href="https://actionnetwork.org/fundraising/mutual-aid-philly/"
-        class="btn goto-gform-offer" aria-describedby="new-window-message">{{ page.donate }}</a>
-        <a target="_blank" href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA" class="btn goto-gform-offer" aria-describedby="new-window-message">{{ page.offer }}</a>
+        href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA"
+        class="btn goto-gform-offer" aria-describedby="new-window-message">{{ page.offer }}</a>
       <!-- <a href="{{ site.form_urls.need_help }}" class="btn need-help">I need help...</a> -->
     </div>
-      <div hidden>
-        <span id="new-window-message">Opens in a new window</span>
-      </div>
-    </header>
+    <div hidden>
+      <span id="new-window-message">Opens in a new window</span>
+    </div>
+  </header>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+  <main id="content" class="main-content" role="main">
+    {{ content }}
 
-      <footer class="site-footer">
-      </footer>
-    </main>
-  </body>
+    <footer class="site-footer">
+    </footer>
+  </main>
+</body>
+
 </html>
