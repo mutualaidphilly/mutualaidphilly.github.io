@@ -44,6 +44,11 @@
 	.main-content h6 {
             color: #0C643A;
         }
+	    
+	.cta-container {
+		display: flex;
+	 	justify-content: center;
+	}
 
     </style>
     <meta name="google-site-verification" content="wepQUf_gtp4HJruerDYEHCIZ7_eS4CXfDfwlFCaeO-w" />
@@ -54,9 +59,18 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
       <h2 class="project-tagline">COVID-19: Need aid? Seeking aid?</h2>
-      <a target="_blank" href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug" class="btn goto-gform-need" aria-describedby="new-window-message">{{ page.need }}</a>
-      <a target="_blank" href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA" class="btn goto-gform-offer" aria-describedby="new-window-message">{{ page.offer }}</a>
+      <div class="cta-container">
+        <a target="_blank" href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug" class="btn goto-gform-need" aria-describedby="new-window-message">{{ page.need }}</a>
+        <div style="
+          border-left: 1px solid white;
+          margin: 0 1rem;
+        "></div>
+      <a target="_blank"
+        href="https://actionnetwork.org/fundraising/mutual-aid-philly/"
+        class="btn goto-gform-offer" aria-describedby="new-window-message">{{ page.donate }}</a>
+        <a target="_blank" href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScV0XL3JDfwL3nVfw5Y0UujFypWE6dkbCyyQpPqj5KD4HVDYA/viewform?usp%3Dsf_link&sa=D&ust=1586378619685000&usg=AFQjCNGMQpoxl74d-Efirqjyc2ngDEMDxA" class="btn goto-gform-offer" aria-describedby="new-window-message">{{ page.offer }}</a>
       <!-- <a href="{{ site.form_urls.need_help }}" class="btn need-help">I need help...</a> -->
+    </div>
       <div hidden>
         <span id="new-window-message">Opens in a new window</span>
       </div>
