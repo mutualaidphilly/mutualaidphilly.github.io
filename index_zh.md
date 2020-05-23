@@ -17,12 +17,12 @@ lang: zh
 
 # 网页目录
 
-* [请求帮助](#request-mutual-aid)
-* [提供帮助](#offer-mutual-aid)
-* [其他资源](#additional-resources)
-* [关于我们](#about-us)
-* [互助免责声明](#mutual-aid-disclaimer)
-* [无障碍声明](#accessibility-statement)
+* [请求帮助](#请求帮助)
+* [提供帮助](#提供帮助)
+* [其他资源](#其他资源)
+* [关于我们](#关于我们)
+* [互助免责声明](#互助免责声明)
+* [无障碍声明](#无障碍声明)
 
 # 请求帮助
 
