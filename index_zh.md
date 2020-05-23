@@ -3,6 +3,7 @@ title: Mutual Aid Philly
 permalink: /zh/
 need: 我需要帮助！
 offer: 我能够提供帮助
+donate: 现在捐款
 published: true
 lang: zh
 ---
