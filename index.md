@@ -1,7 +1,8 @@
-﻿---
+---
 title: "Mutual Aid Philly"
 need: "I need aid!"
 offer: "I can offer aid"
+donate: "Donate Now"
 ---
 
 **para español, haga [clic aquí](/es)**
