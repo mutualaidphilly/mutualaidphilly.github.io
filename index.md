@@ -16,13 +16,15 @@ We are a mutual aid group organizing our neighbors in Center City and South Phil
 
 # Site Index
 
-* [Request Mutual Aid](#request-mutual-aid)
-* [Offer Mutual Aid](#offer-mutual-aid)
-* [Additional Resources](#additional-resources)
-* [About Us](#about-us)
-* [Mutual Aid Disclaimer](#mutual-aid-disclaimer)
-* [Accessibility statement](#accessibility-statement)
-
+- [Welcome to Mutual Aid Philly!](#welcome-to-mutual-aid-philly)
+- [Site Index](#site-index)
+- [Request Mutual Aid](#request-mutual-aid)
+- [Offer Mutual Aid](#offer-mutual-aid)
+- [Additional Resources](#additional-resources)
+- [Donate P-EBT Funds](#donate-p-ebt-funds)
+- [About Us](#about-us)
+- [Mutual Aid Disclaimer](#mutual-aid-disclaimer)
+- [Accessibility statement](#accessibility-statement)
 
 # Request Mutual Aid
 If you want to request help with grocery shopping, prescription pickup, cash, emotional support or truly anything, please fill out this form. A member of our group will reach out to you within 48 hours to match your request with someone who can assist. [Mutual Aid Request Form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug) 
@@ -39,6 +41,14 @@ You can also Venmo our community fund directly at @mutualaidphl and/or donate to
 # Additional Resources
 Looking for more resources? We’ll continue to update this section as things change.
 [List of citywide resources](https://docs.google.com/document/d/12XvgMzAK7nZkgG5PIJGShFvsNuIzszLDu8U5u1JnmZ8/edit?usp=sharing)
+
+# Donate P-EBT Funds
+If you would like to donate the P-EBT funds from the Philadelphia school district to families in need, you have two options:
+
+1. **Donate the monetary equivalent to Mutual Aid Philly.** In this case, you use the card yourself (since the cards are not legally transferable) and donate the monetary equivalent on [Action Network](https://actionnetwork.org/fundraising/mutual-aid-philly/) or Venmo (search @mutualaidphl).
+2. **Sign up to sponsor a family.** In this case, you’ll sign up by checking the “Donate EBT groceries” option on our form . One of our volunteers will match you with a family that needs groceries, let you know their grocery list, and connect you with the family to schedule a contactless delivery. You will shop and deliver the groceries. If there is a language barrier, our volunteers with act as translators for the process.
+
+The money donated to Mutual Aid Philly is used for both for direct monetary aid (up to $100 per family) and to pay for groceries, prescriptions, and cleaning supplies that we deliver to community members. All donations go to community members in need and we keep a public spreadsheet of transactions on our website for transparency.
 
 
 # About Us

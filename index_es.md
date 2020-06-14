@@ -18,12 +18,15 @@ Somos un grupo de ayuda y beneficiencia mutua que organiza a nuestros vecinos en
 
 # Índice del sitio
 
-* [Solicitar ayuda](#solicitar-ayuda)
-* [Ofrecer ayuda](#ofrecer-ayuda)
-* [Recursos adicionales](#recursos-adicionales)
-* [Sobre nosotros](#sobre-nosotros)
-* [Descargo de responsabilidad en torno a la ayuda mutua](#descargo-de-responsabilidad-en-torno-a-la-ayuda-mutua)
-* [Declaración de accesibilidad](#declaración-de-accesibilidad)
+- [¡Bienvenido a Mutual Aid Philly! *](#bienvenido-a-mutual-aid-philly-)
+- [Índice del sitio](#índice-del-sitio)
+- [Solicitar ayuda](#solicitar-ayuda)
+- [Ofrecer ayuda](#ofrecer-ayuda)
+- [Recursos adicionales](#recursos-adicionales)
+- [Done Los Fundos P-EBT](#done-los-fundos-p-ebt)
+- [Sobre nosotros](#sobre-nosotros)
+- [Descargo de responsabilidad en torno a la ayuda mutua](#descargo-de-responsabilidad-en-torno-a-la-ayuda-mutua)
+- [Declaración de accesibilidad](#declaración-de-accesibilidad)
 
 # Solicitar ayuda
 
@@ -45,6 +48,14 @@ También puede enviar fondos directamente a nuestro fondo comunitario en Venmo, 
 ¿Busca más recursos? Continuaremos actualizando esta sección a medida que la situación lo amerite.
 [Lista de recursos para toda la ciudad](https://docs.google.com/document/d/12XvgMzAK7nZkgG5PIJGShFvsNuIzszLDu8U5u1JnmZ8/edit?usp=sharing)
 
+# Done Los Fundos P-EBT
+
+Si desea donar los fondos P-EBT del distrito escolar de Filadelfia a familias necesitadas, tiene dos opciones:
+
+1. Done el equivalente monetario a Mutual Aid Philly. En este caso, use la tarjeta usted mismo (ya que las tarjetas no son legalmente transferibles) y dona el equivalente monetario en [Action Network](https://actionnetwork.org/fundraising/mutual-aid-philly/) o Venmo (busque @mutualaidphl).
+2. Regístrate para patrocinar a una familia. En este caso, te registras marcando la opción "Donar abarrotes EBT" en nuestro formulario. Uno de nuestros voluntarios te asignará con una familia que necesita alimentos, te hará saber su lista de compras y lo conectará con la familia para que se programe la entre la entrega. La compra y entrega de los comestibles la realizaras tù. Si hay una barrera del idioma, nuestros voluntarios actúan como traductores durante el proceso.
+
+El dinero donado a Mutual Aid Philly se usa tanto para ayuda monetaria directa (hasta $ 100 por familia) como para pagar alimentos, recetas y artículos de limpieza que entregamos a los miembros de la comunidad. Todas las donaciones van a miembros de la comunidad que lo necesitan y mantenemos una relación de transacciones pública en nuestro sitio web para mayor transparencia.
 
 # Sobre nosotros
 
