@@ -43,6 +43,8 @@ Si desea ofrecer alguna otra cosa, por favor complete este formulario.
 
 También puede enviar fondos directamente a nuestro fondo comunitario en Venmo, @mutualaidphl, y o enviar fondos a nuestro [PayPal Pool](https://paypal.me/pools/c/8oNSd8W8KH). Para transparencia, aqui notamos cada transaccion que recibimos y damos en esta hoja de cálculo: [Hoja de cálculo de transparencia de dinero](https://docs.google.com/spreadsheets/d/1wxjPjcmXK9gfPFatON0c-e7SQISIEAwbEncJJMa0dT8/edit?usp=sharing)
 
+Descargo de responsabilidad: las donaciones a Mutual Aid Philly no son deducibles para fines de impuestos federales como contribuciones caritativas.
+
 # Recursos adicionales 
 
 ¿Busca más recursos? Continuaremos actualizando esta sección a medida que la situación lo amerite.
