@@ -30,7 +30,7 @@ Somos un grupo de ayuda y beneficiencia mutua que organiza a nuestros vecinos en
 
 # Solicitar ayuda
 
-Si desea solicitar ayuda con la compra de comestibles, recolección de recetas médicas, dinero en efectivo, apoyo emocional o cualquier otra cosa, por favor complete este formulario. [Formulario de solicitud de ayuda mutua](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug)
+Nuestra comunidad puede apoyar tus compras de víveres, recoger tu receta médica, ayuda en dinero, apoyo emocional o verdaderamente en cualquier cosa. Aceptamos solicitudes cada lunes a las 12 pm vía formulario online o llamando al 215-798-0222. Sólo podemos tomar un número limitado de solicitudes cada semana. Alternamos semanas entre solicitudes de dinero y solicitudes para cualquier otra cosa (víveres, artículos del hogar -limpieza-, recetas médicas, etc.) Para hacer una solicitud de dinero, haz [click aquí.](https://docs.google.com/forms/d/e/1FAIpQLScsU0__uCacAAp3_9fHXvlNkuB8zVH9sMpcUdBiLWjN-c8yow/viewform?usp=sf_link) Para solicitar víveres, artículos del hogar/limpieza, comida preparada, apoyo emocional, etc., haz [click aquí.](https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp=sf_link)
 
 Una vez que llene este formulario, un voluntario estará en contacto con usted para contectarle con un vecino que puede ayudar con su solicitud.
 
