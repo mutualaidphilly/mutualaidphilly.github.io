@@ -27,7 +27,10 @@ We are a mutual aid group organizing our neighbors in Center City and South Phil
 - [Accessibility statement](#accessibility-statement)
 
 # Request Mutual Aid
-If you want to request help with grocery shopping, prescription pickup, cash, emotional support or truly anything, please fill out this form. A member of our group will reach out to you within 48 hours to match your request with someone who can assist. [Mutual Aid Request Form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp%3Dsf_link&sa=D&ust=1586378619684000&usg=AFQjCNFYMGO8UYO30PR0E7iJD08VeQ5lug) 
+Our community can support you grocery shopping, prescription pickup, cash, emotional support or truly anything.
+We accept requests every Monday at 12pm via online form or phone at 215-798-0222. We can only take a limited number of requests each week. We *alternate weeks* between cash requests, and requests for everything else (groceries, household supplies, prescription pickup etc).
+To make a request for cash, [click here.](https://docs.google.com/forms/d/e/1FAIpQLScsU0__uCacAAp3_9fHXvlNkuB8zVH9sMpcUdBiLWjN-c8yow/viewform?usp=sf_link)
+To make a request for groceries, household supplies, prepared meals, emotional support, etc, [click here.](https://docs.google.com/forms/d/e/1FAIpQLSfbvHjJpfqn8GylNE1bYaqvSRLQq6UA26MU6KemRMR7a7I4Hg/viewform?usp=sf_link)
 
 Please remember, if you are experiencing an emergency or need medical care please call 9-1-1.
 
